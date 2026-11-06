@@ -1,6 +1,6 @@
 # Proof Board
 
-<img src="icon.svg" width="88" alt="Proof Board">
+<img src="src/assets/icon.svg" width="88" alt="Proof Board">
 
 Версии макета и комментарии по координатам. Локальный инструмент 0.1.0, JavaScript / Node.js.
 

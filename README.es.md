@@ -1,6 +1,6 @@
 # Proof Board
 
-<img src="icon.svg" width="88" alt="Proof Board">
+<img src="src/assets/icon.svg" width="88" alt="Proof Board">
 
 Comentarios por coordenadas (porcentaje desde izquierda/arriba) e identificador SHA-256 de versión. Exportación para revisión.
 
